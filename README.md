@@ -23,7 +23,7 @@
 
 ### Connect with Me
 - 📫 Email: adityamandrwal49@gmail.com
-- LinkedIn: [Aditya Singh Mandrawal](https://www.linkedin.com/in/aditya-mandrwal-b37555268/)
+- LinkedIn: [Aditya Singh Mandrawal](https://www.linkedin.com/in/aditya-singh-mandrawal-b37555268/)
 - Instagram: [aditya_mandrawal](https://www.instagram.com/aditya_mandrawal?igsh=MWpvOG4xanQyaDZjOQ==)
 
 ### Fun Fact
