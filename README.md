@@ -12,6 +12,17 @@
 - Programming Languages: Python, Java, JavaScript
 - Data Science: Machine Learning, Data Analysis, Natural Language Processing
 
+## Algorithms
+
+- [Graph Algorithm](https://github.com/AdityaSinghMandrawal/Graph-Algorithms-in-c-): This repository contains various graph algorithms implemented in C++, including Dijkstra's, Kruskal's, and Prim's algorithms.
+
+- [Sorting Algorithm](https://github.com/AdityaSinghMandrawal/Searching-Sorting-Algorithms): A collection of different sorting and searching algorithms implemented in C++, such as Quick Sort, Merge Sort, Bubble Sort, Heap Sort, Counting Sort, Selection Sort, Insertion Sort.
+
+- [Java Database and Connectivity (JDBC)](https://github.com/AdityaSinghMandrawal/Java-Database-Connectivity): This project demonstrates various operations using JDBC, such as fetching, inserting, updating, and removing data from a database.
+
+- [Dynamic Programming Algorithms](https://github.com/AdityaSinghMandrawal/Dynamic-Programming-Algorithm-Top-Down-and-Bottom-Up-Approach): A repository containing solutions to various dynamic programming problems, including the Knapsack problem, Longest Common Subsequence, and others.
+
+
 ### Projects
 
 - [Object Detection System for Visually Impaired Individuals](https://github.com/AdityaSinghMandrawal/Object-Detection-System-using-YOLO-V3): This system utilizes the YOLOv3 algorithm, COCO dataset, OpenCV, and Google Text-to-Speech (GTTS) to detect objects in real-time from a webcam feed and provide auditory feedback to visually impaired users.
