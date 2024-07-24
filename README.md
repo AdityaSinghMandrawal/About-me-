@@ -46,5 +46,7 @@
 - ⚡ Fun Fact: I love to travel and explore new places, especially those with scenic landscapes.
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSinghMandrawal&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaSinghMandrawal&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSinghMandrawal&layout=compact&theme=radical" />
 </div>
