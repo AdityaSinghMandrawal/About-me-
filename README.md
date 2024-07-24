@@ -24,6 +24,8 @@
 
 - [Facial Recognition Attendance System](https://github.com/AdityaSinghMandrawal/Facial-Recognition-Attendance-System-Enhancing-Efficiency-and-Security): The Facial Recognition Attendance System offers a modern and efficient solution for tracking attendance using facial recognition technology.
 
+- [YouTube Comment Analyzer](https://github.com/AdityaSinghMandrawal/YouTube-Comment-Analyzer): This Python application fetches comments from a specified YouTube video using the YouTube Data API, processes the comments to identify the most common words, and displays these insights in a user-friendly graphical interface built with Tkinter. 
+
 ### Connect with Me
 - 📫 Email: adityamandrwal49@gmail.com
 - LinkedIn: [Aditya Singh Mandrawal](https://www.linkedin.com/in/aditya-singh-mandrawal-b37555268/)
